@@ -24,8 +24,4 @@ int main()
     }
     if(p)
     cout<<"no";
-    
-
-    
-
 }
