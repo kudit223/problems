@@ -25,3 +25,4 @@ int main()
     if(p)
     cout<<"no";
 }
+//unordered_set is a good data struct. when we want to keep a record of previous elemets for upcomming elements.its find fuction have TC: O(1) 
